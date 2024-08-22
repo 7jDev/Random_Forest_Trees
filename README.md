@@ -7,3 +7,6 @@ I thought random forest trees were pretty neat so I built it from scratch in Pyt
 
 Trained a very small random forest tree(about 25 leaving out 25% of the dataset) on the titanic dataset getting a 71% accuracy. And, yes I could've made the accuracy wayyy better but 
 (this is starting to be a theme in my GitHub) Either Python is too slow or the program I wrote is just slow(and I could guess it's probably the latter). 
+  future updates: 
+      -parallel with multiprocessing
+      -just code better -_- 
